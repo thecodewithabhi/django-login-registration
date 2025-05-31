@@ -44,3 +44,6 @@ $ python manage.py migrate
 $ python manage.py createsuperuser
 $ python manage.py runserver
 Open a browser and go to http://localhost:8000/
+```
+![github-post-4](https://github.com/user-attachments/assets/dd8bdb7c-f48b-4b02-aede-200aa19130f5)
+![github-post-3](https://github.com/user-attachments/assets/11865bad-4fba-4b5f-a760-6b8379736a94)
